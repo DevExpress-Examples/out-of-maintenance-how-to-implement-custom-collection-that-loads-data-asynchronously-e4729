@@ -78,9 +78,5 @@ Namespace AsyncDataLoading
             DataSourceManager.Settings = sett
             DataSourceManager.Initialize()
         End Sub
-
-        Private Sub grid_ItemsSourceChanged(ByVal sender As Object, ByVal e As ItemsSourceChangedEventArgs)
-
-        End Sub
     End Class
 End Namespace
