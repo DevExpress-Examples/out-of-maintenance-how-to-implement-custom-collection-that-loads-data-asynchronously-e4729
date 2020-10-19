@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to implement Custom Collection that loads data asynchronously
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4729)**
+**[[Run Online]](https://codecentral.devexpress.com/e4729/)**
 <!-- run online end -->
 
 
